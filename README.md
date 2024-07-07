@@ -24,7 +24,7 @@ Currently, two official plugins are available:
     ```bash
     npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to ` http://localhost:5173/`.
 
 ## Deployment
 This project is deployed on Vercel. Check out the deployment [here](https://college-web-new.vercel.app/).
