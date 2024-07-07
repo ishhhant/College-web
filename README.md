@@ -27,4 +27,4 @@ Currently, two official plugins are available:
 2. Open your browser and navigate to `http://localhost:3000`.
 
 ## Deployment
-This project is deployed on Vercel. Check out the deployment [here](https://college-oy2l4liau-ishhhants-projects.vercel.app/).
+This project is deployed on Vercel. Check out the deployment [here](https://college-web-new.vercel.app/).
